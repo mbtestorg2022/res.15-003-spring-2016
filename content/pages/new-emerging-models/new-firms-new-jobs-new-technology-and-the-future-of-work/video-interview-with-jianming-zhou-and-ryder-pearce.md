@@ -6,7 +6,7 @@ title: 4.1 New Firms, New Jobs, New Technology, and the Future of Work
 uid: 62b4a6e1-abc8-b489-f55d-072429d7797f
 ---
 
-*   [<Video: Uber Case Study]({{< baseurl >}}/pages/new-emerging-models/new-firms-new-jobs-new-technology-and-the-future-of-work/video-uber-case-study)
+*   [\<Video: Uber Case Study]({{< baseurl >}}/pages/new-emerging-models/new-firms-new-jobs-new-technology-and-the-future-of-work/video-uber-case-study)
 *   [4.1.1Video: Week 4 Introduction]({{< baseurl >}}/pages/new-emerging-models/new-firms-new-jobs-new-technology-and-the-future-of-work)
 *   [4.1.2Video: What Occupations are Growing?]({{< baseurl >}}/pages/new-emerging-models/new-firms-new-jobs-new-technology-and-the-future-of-work/video-what-occupations-are-growing)
 *   [4.1.3Video: Emerging Forms of Work]({{< baseurl >}}/pages/new-emerging-models/new-firms-new-jobs-new-technology-and-the-future-of-work/video-emerging-forms-of-work)

@@ -6,7 +6,7 @@ title: 1.2 Challenges and Opportunities as You Enter the Workforce
 uid: 3072f788-1317-7247-9b1a-187d1904d078
 ---
 
-*   [<Video: The Millennial Generation's Views on their World of Work]({{< baseurl >}}/pages/introduction-challenges-and-opportunities/challenges-and-opportunities-as-you-enter-the-workforce/video-the-millennial-generation-s-views-on-their-world-of-work)
+*   [\<Video: The Millennial Generation's Views on their World of Work]({{< baseurl >}}/pages/introduction-challenges-and-opportunities/challenges-and-opportunities-as-you-enter-the-workforce/video-the-millennial-generation-s-views-on-their-world-of-work)
 *   [1.2.1Video: A Message from U.S. Secretary of Labor Thomas Perez to the Next Generation Workforce]({{< baseurl >}}/pages/introduction-challenges-and-opportunities/challenges-and-opportunities-as-you-enter-the-workforce)
 *   [1.2.2Video: Animated Version of the Evolution History of Work]({{< baseurl >}}/pages/introduction-challenges-and-opportunities/challenges-and-opportunities-as-you-enter-the-workforce/video-animated-version-of-the-evolution-history-of-work)
 *   [1.2.3Video: A Message from AFL-CIO Secretary Treasurer Liz Shuler]({{< baseurl >}}/pages/introduction-challenges-and-opportunities/challenges-and-opportunities-as-you-enter-the-workforce/video-a-message-from-afl-cio-secretary-treasurer-liz-shuler)

@@ -6,7 +6,7 @@ title: 7.1 Live Event Presentation
 uid: d1a164f4-e850-d6ed-b29a-355c3e862085
 ---
 
-*   [<Student Reports on Their Plans for Action]({{< baseurl >}}/pages/student-reports-on-their-plans-for-action)
+*   [\<Student Reports on Their Plans for Action]({{< baseurl >}}/pages/student-reports-on-their-plans-for-action)
 *   [7.1.1Video: Discussion of Students Reports on Their Plans for Action]({{< baseurl >}}/pages/student-reports-on-their-plans-for-action/live-event-presentation)
 
 This video documents the wrap up class in which Prof. Kochan discussed all the data provided by class participants in an interactive manner. Students submitted individual career plans after receiving peer feedback, the results of the Social Contract Negotiations Simulation, and data from an organization using the "Good Jobs App."

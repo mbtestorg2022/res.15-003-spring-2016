@@ -6,7 +6,7 @@ title: 2.2 For More Information...
 uid: 83316687-e25d-0ebe-f205-81a0b8163483
 ---
 
-*   [<Video: Careers and Competencies with Professor Lee Dyer]({{< baseurl >}}/pages/the-old-social-contract/what-made-the-old-social-contract-work-and-why-did-it-break-down/video-careers-and-competencies-with-professor-lee-dyer)
+*   [\<Video: Careers and Competencies with Professor Lee Dyer]({{< baseurl >}}/pages/the-old-social-contract/what-made-the-old-social-contract-work-and-why-did-it-break-down/video-careers-and-competencies-with-professor-lee-dyer)
 *   [2.2.1Additional Resources]({{< baseurl >}}/pages/the-old-social-contract/for-more-information-0)
 *   [\>Innovations in the 1980s and Beyond]({{< baseurl >}}/pages/innovations-in-the-1980s-and-beyond)
 

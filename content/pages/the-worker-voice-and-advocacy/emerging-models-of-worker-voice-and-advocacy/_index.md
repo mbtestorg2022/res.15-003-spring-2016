@@ -6,7 +6,7 @@ title: 5.1 Emerging Models of Worker Voice and Advocacy
 uid: f64caa34-6fa7-0afb-a933-c8855e020995
 ---
 
-*   [<The Worker Voice and Advocacy]({{< baseurl >}}/pages/the-worker-voice-and-advocacy)
+*   [\<The Worker Voice and Advocacy]({{< baseurl >}}/pages/the-worker-voice-and-advocacy)
 *   [5.1.1Video: Week 5 Introduction]({{< baseurl >}}/pages/the-worker-voice-and-advocacy/emerging-models-of-worker-voice-and-advocacy)
 *   [5.1.2Video: The Decline of Unions in the United States]({{< baseurl >}}/pages/the-worker-voice-and-advocacy/emerging-models-of-worker-voice-and-advocacy/video-the-decline-of-unions-in-the-united-states)
 *   [5.1.3Video: Emerging Models of Worker Advocacy]({{< baseurl >}}/pages/the-worker-voice-and-advocacy/emerging-models-of-worker-voice-and-advocacy/video-emerging-models-of-worker-advocacy)

@@ -6,7 +6,7 @@ title: '3.1 Out of Crisis: Innovations in the 1980s and Beyond'
 uid: 8b6c161b-04ba-1dce-b500-0948b60336cb
 ---
 
-*   [<Video: The Rise and Fall of Saturn]({{< baseurl >}}/pages/innovations-in-the-1980s-and-beyond/out-of-crisis-innovations-in-the-1980s-and-beyond/video-the-rise-and-fall-of-saturn)
+*   [\<Video: The Rise and Fall of Saturn]({{< baseurl >}}/pages/innovations-in-the-1980s-and-beyond/out-of-crisis-innovations-in-the-1980s-and-beyond/video-the-rise-and-fall-of-saturn)
 *   [3.1.1Video: Week 3 Introduction]({{< baseurl >}}/pages/innovations-in-the-1980s-and-beyond/out-of-crisis-innovations-in-the-1980s-and-beyond)
 *   [3.1.2Video: What Changed in the 1980s and Why Should We Care?]({{< baseurl >}}/pages/innovations-in-the-1980s-and-beyond/out-of-crisis-innovations-in-the-1980s-and-beyond/video-what-changed-in-the-1980s-and-why-should-we-care)
 *   [3.1.3Video: The Purpose of the American Corporation]({{< baseurl >}}/pages/innovations-in-the-1980s-and-beyond/out-of-crisis-innovations-in-the-1980s-and-beyond/video-the-purpose-of-the-american-corporation)

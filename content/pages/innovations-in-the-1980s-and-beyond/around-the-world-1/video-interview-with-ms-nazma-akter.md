@@ -6,7 +6,7 @@ title: 3.2 Around the World
 uid: 41df0944-87b8-8a5c-fe77-59103bdb2464
 ---
 
-*   [<Around the World]({{< baseurl >}}/pages/innovations-in-the-1980s-and-beyond/around-the-world-1)
+*   [\<Around the World]({{< baseurl >}}/pages/innovations-in-the-1980s-and-beyond/around-the-world-1)
 *   [3.2.1Video: Role of the Corporation in Different Societies]({{< baseurl >}}/pages/innovations-in-the-1980s-and-beyond/around-the-world-1)
 *   [3.2.2Video: Interview with Ms. Nazma Akter]({{< baseurl >}}/pages/innovations-in-the-1980s-and-beyond/around-the-world-1/video-interview-with-ms-nazma-akter)
 *   [\>For More Information...]({{< baseurl >}}/pages/innovations-in-the-1980s-and-beyond/for-more-information-1)

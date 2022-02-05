@@ -6,7 +6,7 @@ title: 1.3 For More Information...
 uid: 6c63305c-53db-1adf-f5eb-79fdbc697c29
 ---
 
-*   [<For More Information...]({{< baseurl >}}/pages/introduction-challenges-and-opportunities/for-more-information)
+*   [\<For More Information...]({{< baseurl >}}/pages/introduction-challenges-and-opportunities/for-more-information)
 *   [1.3.1Additional Resources]({{< baseurl >}}/pages/introduction-challenges-and-opportunities/for-more-information)
 *   [1.3.2Around the World]({{< baseurl >}}/pages/introduction-challenges-and-opportunities/for-more-information/around-the-world)
 *   [\>The Old Social Contract]({{< baseurl >}}/pages/the-old-social-contract)

@@ -78,7 +78,36 @@ Grading
 
 Student grades in this course were based on attentiveness questions and peer-reviewed assignments. Attentiveness questions were worth one point and were based directly on the content of the videos they followed (2 incorrect attentiveness questions were dropped). The peer-review assignments required students to submit their work to fellow classmates, who graded them based on criteria provided. Students were also asked to grade the work of five classmates each week.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Attentiveness questions | 40% |
-| 5 assignments | 60%
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Attentiveness questions
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5 assignments
+{{< tdclose >}}
+{{< tdopen >}}
+60%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

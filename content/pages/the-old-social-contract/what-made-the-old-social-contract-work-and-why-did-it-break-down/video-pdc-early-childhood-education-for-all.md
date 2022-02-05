@@ -6,7 +6,7 @@ title: 2.1 What Made the Old Social Contract Work and Why did It Break Down?
 uid: 970e259f-bae3-2b58-e95e-a6166c37a82e
 ---
 
-*   [<Video: The Post-War Social Contract]({{< baseurl >}}/pages/the-old-social-contract/what-made-the-old-social-contract-work-and-why-did-it-break-down/video-the-post-war-social-contract)
+*   [\<Video: The Post-War Social Contract]({{< baseurl >}}/pages/the-old-social-contract/what-made-the-old-social-contract-work-and-why-did-it-break-down/video-the-post-war-social-contract)
 *   [2.1.1Video: Week 2 Introduction]({{< baseurl >}}/pages/the-old-social-contract/what-made-the-old-social-contract-work-and-why-did-it-break-down)
 *   [2.1.2Video: The New Deal at Work]({{< baseurl >}}/pages/the-old-social-contract/what-made-the-old-social-contract-work-and-why-did-it-break-down/video-the-new-deal-at-work)
 *   [2.1.3Video: The Post-War Social Contract]({{< baseurl >}}/pages/the-old-social-contract/what-made-the-old-social-contract-work-and-why-did-it-break-down/video-the-post-war-social-contract)

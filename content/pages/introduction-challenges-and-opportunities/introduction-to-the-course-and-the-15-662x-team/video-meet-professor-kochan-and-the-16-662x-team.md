@@ -6,7 +6,7 @@ title: 1.1 Introduction to the Course and the 15.662x Team
 uid: 403398a4-1ba2-6007-9bcc-2f8e03835c24
 ---
 
-*   [<Introduction to the Course and the 15.662x Team]({{< baseurl >}}/pages/introduction-challenges-and-opportunities/introduction-to-the-course-and-the-15-662x-team)
+*   [\<Introduction to the Course and the 15.662x Team]({{< baseurl >}}/pages/introduction-challenges-and-opportunities/introduction-to-the-course-and-the-15-662x-team)
 *   [1.1.1Video: Introduction to the Course]({{< baseurl >}}/pages/introduction-challenges-and-opportunities/introduction-to-the-course-and-the-15-662x-team)
 *   [1.1.2Video: Meet Professor Kochan and the 16.662x Team]({{< baseurl >}}/pages/introduction-challenges-and-opportunities/introduction-to-the-course-and-the-15-662x-team/video-meet-professor-kochan-and-the-16-662x-team)
 *   [1.1.3Video: Week 1 Introduction]({{< baseurl >}}/pages/introduction-challenges-and-opportunities/introduction-to-the-course-and-the-15-662x-team/video-week-1-introduction)

@@ -6,7 +6,7 @@ title: 4.1 New Firms, New Jobs, New Technology, and the Future of Work
 uid: 5014e7fb-30d2-c6c9-5a44-cb4c6435662e
 ---
 
-*   [<New Firms, New Jobs, New Technology, and the Future of Work]({{< baseurl >}}/pages/new-emerging-models/new-firms-new-jobs-new-technology-and-the-future-of-work)
+*   [\<New Firms, New Jobs, New Technology, and the Future of Work]({{< baseurl >}}/pages/new-emerging-models/new-firms-new-jobs-new-technology-and-the-future-of-work)
 *   [4.1.1Video: Week 4 Introduction]({{< baseurl >}}/pages/new-emerging-models/new-firms-new-jobs-new-technology-and-the-future-of-work)
 *   [4.1.2Video: What Occupations are Growing?]({{< baseurl >}}/pages/new-emerging-models/new-firms-new-jobs-new-technology-and-the-future-of-work/video-what-occupations-are-growing)
 *   [4.1.3Video: Emerging Forms of Work]({{< baseurl >}}/pages/new-emerging-models/new-firms-new-jobs-new-technology-and-the-future-of-work/video-emerging-forms-of-work)

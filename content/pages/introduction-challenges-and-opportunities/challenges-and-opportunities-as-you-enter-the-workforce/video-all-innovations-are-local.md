@@ -6,7 +6,7 @@ title: 1.2 Challenges and Opportunities as You Enter the Workforce
 uid: c28ad11f-c38c-d839-5195-84060f8539d3
 ---
 
-*   [<Video: Current Challenges and Opportunities]({{< baseurl >}}/pages/introduction-challenges-and-opportunities/challenges-and-opportunities-as-you-enter-the-workforce/video-current-challenges-and-opportunities)
+*   [\<Video: Current Challenges and Opportunities]({{< baseurl >}}/pages/introduction-challenges-and-opportunities/challenges-and-opportunities-as-you-enter-the-workforce/video-current-challenges-and-opportunities)
 *   [1.2.1Video: A Message from U.S. Secretary of Labor Thomas Perez to the Next Generation Workforce]({{< baseurl >}}/pages/introduction-challenges-and-opportunities/challenges-and-opportunities-as-you-enter-the-workforce)
 *   [1.2.2Video: Animated Version of the Evolution History of Work]({{< baseurl >}}/pages/introduction-challenges-and-opportunities/challenges-and-opportunities-as-you-enter-the-workforce/video-animated-version-of-the-evolution-history-of-work)
 *   [1.2.3Video: A Message from AFL-CIO Secretary Treasurer Liz Shuler]({{< baseurl >}}/pages/introduction-challenges-and-opportunities/challenges-and-opportunities-as-you-enter-the-workforce/video-a-message-from-afl-cio-secretary-treasurer-liz-shuler)

@@ -6,7 +6,7 @@ title: 6.1 Social Contract Negotiations Exercise
 uid: d0e726de-6851-0598-be55-c4290f521f29
 ---
 
-*   [<Social Contract Negotiations Exercise]({{< baseurl >}}/pages/the-social-contract-negotiation-exercise/social-contract-negotiations-exercise)
+*   [\<Social Contract Negotiations Exercise]({{< baseurl >}}/pages/the-social-contract-negotiation-exercise/social-contract-negotiations-exercise)
 *   [6.1.1Video: Week 6 Introduction]({{< baseurl >}}/pages/the-social-contract-negotiation-exercise/social-contract-negotiations-exercise)
 *   [6.1.2Video: A Guide to the Next Generation Social Contract Negotiations Exercise]({{< baseurl >}}/pages/the-social-contract-negotiation-exercise/social-contract-negotiations-exercise/video-a-guide-to-the-next-generation-social-contract-negotiations-exercise)
 *   [\>Student Reports on Their Plans for Action]({{< baseurl >}}/pages/student-reports-on-their-plans-for-action)

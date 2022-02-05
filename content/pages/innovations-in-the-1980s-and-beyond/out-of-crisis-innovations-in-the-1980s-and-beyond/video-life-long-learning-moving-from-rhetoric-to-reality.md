@@ -6,7 +6,7 @@ title: '3.1 Out of Crisis: Innovations in the 1980s and Beyond'
 uid: 678746ae-8f7d-4625-a625-6753ddd1d1cc
 ---
 
-*   [<Video: High School and College: Necessary but Not Sufficient]({{< baseurl >}}/pages/innovations-in-the-1980s-and-beyond/out-of-crisis-innovations-in-the-1980s-and-beyond/video-high-school-and-college-necessary-but-not-sufficient)
+*   [\<Video: High School and College: Necessary but Not Sufficient]({{< baseurl >}}/pages/innovations-in-the-1980s-and-beyond/out-of-crisis-innovations-in-the-1980s-and-beyond/video-high-school-and-college-necessary-but-not-sufficient)
 *   [3.1.1Video: Week 3 Introduction]({{< baseurl >}}/pages/innovations-in-the-1980s-and-beyond/out-of-crisis-innovations-in-the-1980s-and-beyond)
 *   [3.1.2Video: What Changed in the 1980s and Why Should We Care?]({{< baseurl >}}/pages/innovations-in-the-1980s-and-beyond/out-of-crisis-innovations-in-the-1980s-and-beyond/video-what-changed-in-the-1980s-and-why-should-we-care)
 *   [3.1.3Video: The Purpose of the American Corporation]({{< baseurl >}}/pages/innovations-in-the-1980s-and-beyond/out-of-crisis-innovations-in-the-1980s-and-beyond/video-the-purpose-of-the-american-corporation)
