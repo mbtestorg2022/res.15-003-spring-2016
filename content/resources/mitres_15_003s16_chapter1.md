@@ -5,6 +5,7 @@ description: "This resource contains the information regarding chapter 1: the ne
   \ future of work."
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/e05bf04d08417045ecdada2f7393090b_MITRES_15_003S16_Chapter1.pdf
 file_type: application/pdf
+parent_uid: 4f99d0cb-2a63-3499-552c-eac598125a32
 resourcetype: Document
 title: "Chapter 1: The Next Generation\u2019s American Dream: What Can Be Done to\
   \ Achieve It? in Shaping the Future of Work"

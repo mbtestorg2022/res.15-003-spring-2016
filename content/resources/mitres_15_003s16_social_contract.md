@@ -11,6 +11,7 @@ image_metadata:
   image-alt: 'Pie chart showing the following data: 85.9% Yes, it''s important that
     wages and productivity rises together; 5.8% No, it''s not important that wages
     and productivity rises together; 8.3% I am not sure.'
+parent_uid: 75a94bbd-5874-00e9-cb90-d9e8a81237e1
 resourcetype: Image
 title: MITRES_15_003S16_social_contract.png
 uid: 384dda3e-a0ba-1bf2-3445-9dea68b22c2c

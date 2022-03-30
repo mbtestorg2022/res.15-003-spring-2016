@@ -10,6 +10,7 @@ image_metadata:
   credit: ''
   image-alt: 'Pie chart showing the following data: 1.3% Not at all responsible; 35.6%
     Partly responsible; 63.1% Very responsible.'
+parent_uid: 234d93e1-0acc-bc1c-8453-f97cb67960b4
 resourcetype: Image
 title: MITRES_15_003S16_society.png
 uid: 9ccf21b8-2424-af7c-8760-cea600b4a36a

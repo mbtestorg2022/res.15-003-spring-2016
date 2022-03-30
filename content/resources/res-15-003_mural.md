@@ -8,6 +8,7 @@ image_metadata:
   credit: '(Courtesy of Kheel Center. License: CC BY.)'
   image-alt: Men and women holding signs that say "Higher Wages," "Collective Bargaining,"
     "5-day Week" and other slogans.
+parent_uid: aa059fb3-678c-cdd9-8692-3b443c48a843
 resourcetype: Image
 title: RES.15-003_mural.jpg
 uid: 3c7879ac-ad11-2736-31a5-099e3d3c677f

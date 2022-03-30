@@ -10,6 +10,7 @@ image_metadata:
   credit: ''
   image-alt: 'Pie chart showing the following data: 2.4% Yes; 65.3% No; 2.6% I''m
     not sure; 19.7% I''m not currently employed.'
+parent_uid: ef817a31-4049-6ab2-196d-039b0fac2a4f
 resourcetype: Image
 title: MITRES_15_003S16_union.png
 uid: 8bd2072b-df54-6c42-47ee-35a63394997b

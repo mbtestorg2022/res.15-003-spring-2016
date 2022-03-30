@@ -10,6 +10,7 @@ image_metadata:
   credit: ''
   image-alt: 'Pie chart showing the following data: 1.3% Not at all responsible; 13.9%
     Partly responsible; 84.8% Very responsible.'
+parent_uid: 234d93e1-0acc-bc1c-8453-f97cb67960b4
 resourcetype: Image
 title: MITRES_15_003S16_employees.png
 uid: 2504364e-d81c-33d3-1265-09211e80d52f

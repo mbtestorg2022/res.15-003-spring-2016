@@ -9,6 +9,7 @@ image_metadata:
   credit: 'Image is in the public domain. Source: Wikimedia Commons.'
   image-alt: "Close-up of two strong men\u2019s forearms with hands clenched into\
     \ fists representing Labor and Management."
+parent_uid: 9f03331a-f390-bae1-961c-a4a065522188
 resourcetype: Image
 title: RES.15-003_together.jpg
 uid: 19e49b79-3454-3b0e-8086-2549ebf2c3da

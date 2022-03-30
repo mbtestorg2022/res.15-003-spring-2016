@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 533d102e-fe06-9d1d-b963-beda43cca2a1
 resourcetype: Image
 title: Tom_Kochan_s.jpg
 uid: 852b0e62-fd9a-19fe-397f-27868f670f47

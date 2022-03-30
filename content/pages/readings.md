@@ -32,7 +32,7 @@ Introduction: Challenges and Opportunities as You Enter the Workforce
 {{< tdopen >}}
 
 
-\[Kochan\] [Chapter 1: The Next Generation's American Dream: What Can Be Done to Achieve It? (PDF)](/resources/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/readings/MITRES_15_003S16_Chapter1.pdf), pp. 1–24.
+\[Kochan\] {{% resource_link "e05bf04d-0841-7045-ecda-da2f7393090b" "Chapter 1: The Next Generation's American Dream: What Can Be Done to Achieve It? (PDF)" %}}, pp. 1–24.
 
 Around the World Reading: "[Key Indicators of the Labor Market (KILM)](http://www.ilo.org/global/about-the-ilo/newsroom/news/WCMS_423596/lang--en/index.htm)." _International Labour Organization_, 2015.
 
@@ -50,9 +50,9 @@ The Old Social Contract: What Made It Work and Why did It Break Down?
 {{< tdopen >}}
 
 
-[We Have Been Here Before—The New Deal and Where the Ideas for it Came From: "The New Deal." (PDF)](/resources/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/readings/MITRES_15_003S16_newdeal.pdf)
+{{% resource_link "860d8e82-906a-d4d7-19fb-61867e428e99" "We Have Been Here Before—The New Deal and Where the Ideas for it Came From: \"The New Deal.\" (PDF)" %}}
 
-\[Kochan\] [Chapter 2: The Post War Social Contract (PDF)](/resources/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/readings/MITRES_15_003S16_Chapter2.pdf), pp. 25–45.
+\[Kochan\] {{% resource_link "f0ffaf0d-a4ab-e2b6-9afd-c4fa76a4e7fe" "Chapter 2: The Post War Social Contract (PDF)" %}}, pp. 25–45.
 
 
 {{< tdclose >}}
@@ -68,9 +68,9 @@ Out of Crisis: Innovations in the 1980s and Beyond
 {{< tdopen >}}
 
 
-["From Steady State to Atrophy." (PDF)](/resources/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/readings/MITRES_15_003S16_atrophy.pdf)
+{{% resource_link "30d1d668-33c4-8c5a-dbae-b16ccac40efc" "\"From Steady State to Atrophy.\" (PDF)" %}}
 
-["What Changed in the 1980s and Why." (PDF)](/resources/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/readings/MITRES_15_003S16_1980s.pdf)
+{{% resource_link "9ceda545-eb11-7fdb-cc11-a86b50e3c7ef" "\"What Changed in the 1980s and Why.\" (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -86,15 +86,15 @@ New Emerging Models: New Firms, New Jobs, New Technology, and the Future of Work
 {{< tdopen >}}
 
 
-["The Rise and Fall of Saturn." (PDF)](/resources/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/readings/MITRES_15_003S16_saturn.pdf)
+{{% resource_link "ce897bdb-46ed-ea3d-d554-8b7150839760" "\"The Rise and Fall of Saturn.\" (PDF)" %}}
 
-["'High Road' and 'Low Road' Strategies and the Birth of High Performance Work Systems." (PDF)](/resources/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/readings/MITRES_15_003S16_worksys.pdf)
+{{% resource_link "f30460f1-3bea-c256-b34a-7b45b1c79be1" "\"'High Road' and 'Low Road' Strategies and the Birth of High Performance Work Systems.\" (PDF)" %}}
 
-[Alternative Models of Governance: "New Charters / Governance Models." (PDF)](/resources/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/readings/MITRES_15_003S16_govnmdl.pdf)
+{{% resource_link "be66a30a-a493-0320-85a9-a4c7fe3d4363" "Alternative Models of Governance: \"New Charters / Governance Models.\" (PDF)" %}}
 
-["Global Firms: Can We Hold Them Accountable?" (PDF)](/resources/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/readings/MITRES_15_003S16_global.pdf)
+{{% resource_link "58fa95f3-c2e6-839a-0241-753e6c496f4f" "\"Global Firms: Can We Hold Them Accountable?\" (PDF)" %}}
 
-\[Kochan\] [Chapter 5: A New Age of Innovation? (PDF)](/resources/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/readings/MITRES_15_003S16_Chapter5.pdf), pp. 93-100.
+\[Kochan\] {{% resource_link "815ead7f-49fa-be32-5d65-8cec6f9b30ad" "Chapter 5: A New Age of Innovation? (PDF)" %}}, pp. 93-100.
 
 
 {{< tdclose >}}
@@ -110,9 +110,9 @@ Emerging Models of Worker Voice and Advocacy
 {{< tdopen >}}
 
 
-["Preparing for and Shaping the Future of Work and Organizations." (PDF)](/resources/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/readings/MITRES_15_003S16_futurewrk.pdf)
+{{% resource_link "dde67a6f-1ad6-4f49-5a9c-b519a68c35f3" "\"Preparing for and Shaping the Future of Work and Organizations.\" (PDF)" %}}
 
-\[Kochan\] [Chapter 5: A New Age of Innovation? (PDF)](/resources/res-15-003-shaping-the-future-of-work-15-662x-spring-2016/readings/MITRES_15_003S16_pp100-106.pdf), pp. 100-106.
+\[Kochan\] {{% resource_link "fc893a50-640c-fd53-b2db-d47681e362fb" "Chapter 5: A New Age of Innovation? (PDF)" %}}, pp. 100-106.
 
 
 {{< tdclose >}}
